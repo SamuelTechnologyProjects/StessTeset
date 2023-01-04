@@ -1,0 +1,15 @@
+C:\Users\Sami\Documents\StressTester\obj\Debug\net7.0\StressTester.csproj.AssemblyReference.cache
+C:\Users\Sami\Documents\StressTester\obj\Debug\net7.0\StressTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sami\Documents\StressTester\obj\Debug\net7.0\StressTester.AssemblyInfoInputs.cache
+C:\Users\Sami\Documents\StressTester\obj\Debug\net7.0\StressTester.AssemblyInfo.cs
+C:\Users\Sami\Documents\StressTester\obj\Debug\net7.0\StressTester.csproj.CoreCompileInputs.cache
+C:\Users\Sami\Documents\StressTester\bin\Debug\net7.0\StressTester.exe
+C:\Users\Sami\Documents\StressTester\bin\Debug\net7.0\StressTester.deps.json
+C:\Users\Sami\Documents\StressTester\bin\Debug\net7.0\StressTester.runtimeconfig.json
+C:\Users\Sami\Documents\StressTester\bin\Debug\net7.0\StressTester.dll
+C:\Users\Sami\Documents\StressTester\bin\Debug\net7.0\StressTester.pdb
+C:\Users\Sami\Documents\StressTester\obj\Debug\net7.0\StressTester.dll
+C:\Users\Sami\Documents\StressTester\obj\Debug\net7.0\refint\StressTester.dll
+C:\Users\Sami\Documents\StressTester\obj\Debug\net7.0\StressTester.pdb
+C:\Users\Sami\Documents\StressTester\obj\Debug\net7.0\StressTester.genruntimeconfig.cache
+C:\Users\Sami\Documents\StressTester\obj\Debug\net7.0\ref\StressTester.dll
